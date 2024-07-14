@@ -1,0 +1,6 @@
+Decision Tree Algorithm  99%
+Accuracy: 0.9934354485776805
+
+
+Logistic Regression  97%
+Accuracy : 0.9715536105032823
